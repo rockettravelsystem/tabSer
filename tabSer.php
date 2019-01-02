@@ -5,5 +5,5 @@
  * Version:           1.1.0
  * Author:            RTS team
  * Text Domain:       tabSer
- * GitHub Plugin URI: https://github.com/2Fwebd/feedier-wordpress
+ * GitHub Plugin URI: https://github.com/rockettravelsystem/tabSer/blob/master/tabSer.php
  */
